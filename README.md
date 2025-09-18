@@ -35,7 +35,3 @@ Final-year BIS student at Assiut University ğŸ“ | Data Engineering Enthusiast ğ
 
 ---
 
-### GitHub Stats  
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa-nasr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asmaa's github stats" /> 
-
